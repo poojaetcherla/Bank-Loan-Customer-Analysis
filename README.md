@@ -150,18 +150,6 @@ SQL was used to query the loan data and answer the major business questions.
 - Calculate aggregate and average metrics
 - Group and sort financial data
 
-### Example SQL Query
-
-```sql
-SELECT 
-    YEAR(issue_d) AS loan_year,
-    COUNT(*) AS total_loans,
-    SUM(loan_amnt) AS total_loan_amount,
-    AVG(loan_amnt) AS average_loan_amount
-FROM bank_loan
-GROUP BY YEAR(issue_d)
-ORDER BY loan_year;
-
 ---
 
 #🐍 **Python Analysis**
