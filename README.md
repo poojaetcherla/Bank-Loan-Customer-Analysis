@@ -136,5 +136,30 @@ Analyze loan payment behavior based on home ownership.
 
 ---
 
+### Tableau Dashboard
+
+<img width="1666" height="837" alt="tableau dashboard" src="https://github.com/user-attachments/assets/fde835fb-f7d9-4cab-b352-f95aa349c3fc" />
+
+---
+
+### Power BI Dashboards
+
+1.Year wise loan amount stats:
+<img width="1166" height="649" alt="Year wise loan amnt stats PBI 1" src="https://github.com/user-attachments/assets/71fe227a-92c2-40e9-96ee-724c0153b61f" />
+
+2.Grade sub grade wise revoling balance:
+<img width="1162" height="655" alt="Grade sub grade wise revol bal PBI 2" src="https://github.com/user-attachments/assets/f86b17f6-57a8-49d6-8346-c1c8ada7e1fc" />
+
+3.Payment verification:
+<img width="1169" height="653" alt="Verification payment analysis PBI 3" src="https://github.com/user-attachments/assets/526b8f4f-6cf4-469b-82f3-4d6f9ea3ab4e" />
+
+4.State wise and month wise loan status:
+<img width="1165" height="649" alt="State and month wise loan status PBI 4" src="https://github.com/user-attachments/assets/d35c82e2-c49f-46a0-8308-fba69f80350f" />
+
+5.Home ownership vs last payment date status:
+<img width="1183" height="660" alt="Home ownership and payment PBI 5" src="https://github.com/user-attachments/assets/b23ac647-8acf-4da4-bdfe-28bd87441ee0" />
+
+---
+
 📝 Conclusion
 This Bank Loan Customer Analytics project demonstrates the use of SQL, Python, Tableau, and Power BI to analyze financial data and generate meaningful business insights. The analysis explores year-wise loan trends, credit grades, customer verification status, state-wise loan performance, and home ownership patterns. By combining data analysis with interactive dashboards, this project helps transform raw financial data into actionable insights that support better decision-making. Overall, this project enhanced my skills in data cleaning, SQL querying, Python analysis, data visualization, dashboard development, and business analytics.
